@@ -1,4 +1,4 @@
-#https://vercel-deployment-9jmy7xszs-hafiz-rehans-projects.vercel.app/docs
+#https://vercel-deployment-mu-two.vercel.app/docs
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
